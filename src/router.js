@@ -1,4 +1,9 @@
-import { createBrowserRouter, RouterProvider, Link } from "react-router-dom";
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Link,
+  createHashRouter,
+} from "react-router-dom";
 import { Layout } from "./Components/Layout/Layout";
 import { Suspense, lazy } from "react";
 import PrivateRoute from "./Components/Auth/PrivateRoute";
@@ -9,7 +14,7 @@ const LazyMenu = lazy(() => import("./Pages/Menu"));
 const LazyCart = lazy(() => import("./Pages/CartPage"));
 const LazyOrder = lazy(() => import("./Pages/Order"));
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: (

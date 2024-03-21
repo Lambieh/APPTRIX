@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/APPTRIX/static/css/main.f87dab29.css",
+    "main.js": "/APPTRIX/static/js/main.6ae48cae.js",
+    "static/css/111.e5754596.chunk.css": "/APPTRIX/static/css/111.e5754596.chunk.css",
+    "static/js/111.0697fb1f.chunk.js": "/APPTRIX/static/js/111.0697fb1f.chunk.js",
+    "static/js/242.8eb08f8c.chunk.js": "/APPTRIX/static/js/242.8eb08f8c.chunk.js",
+    "static/css/991.00feac14.chunk.css": "/APPTRIX/static/css/991.00feac14.chunk.css",
+    "static/js/991.fc124895.chunk.js": "/APPTRIX/static/js/991.fc124895.chunk.js",
+    "static/css/658.0d6aca29.chunk.css": "/APPTRIX/static/css/658.0d6aca29.chunk.css",
+    "static/js/658.d76ccedd.chunk.js": "/APPTRIX/static/js/658.d76ccedd.chunk.js",
+    "static/css/255.92d2d30c.chunk.css": "/APPTRIX/static/css/255.92d2d30c.chunk.css",
+    "static/js/255.b7ab7e5a.chunk.js": "/APPTRIX/static/js/255.b7ab7e5a.chunk.js",
+    "static/css/540.31d5ac5a.chunk.css": "/APPTRIX/static/css/540.31d5ac5a.chunk.css",
+    "static/js/540.bdbd2805.chunk.js": "/APPTRIX/static/js/540.bdbd2805.chunk.js",
+    "static/js/366.b96deebf.chunk.js": "/APPTRIX/static/js/366.b96deebf.chunk.js",
+    "index.html": "/APPTRIX/index.html",
+    "main.f87dab29.css.map": "/APPTRIX/static/css/main.f87dab29.css.map",
+    "main.6ae48cae.js.map": "/APPTRIX/static/js/main.6ae48cae.js.map",
+    "111.e5754596.chunk.css.map": "/APPTRIX/static/css/111.e5754596.chunk.css.map",
+    "111.0697fb1f.chunk.js.map": "/APPTRIX/static/js/111.0697fb1f.chunk.js.map",
+    "242.8eb08f8c.chunk.js.map": "/APPTRIX/static/js/242.8eb08f8c.chunk.js.map",
+    "991.00feac14.chunk.css.map": "/APPTRIX/static/css/991.00feac14.chunk.css.map",
+    "991.fc124895.chunk.js.map": "/APPTRIX/static/js/991.fc124895.chunk.js.map",
+    "658.0d6aca29.chunk.css.map": "/APPTRIX/static/css/658.0d6aca29.chunk.css.map",
+    "658.d76ccedd.chunk.js.map": "/APPTRIX/static/js/658.d76ccedd.chunk.js.map",
+    "255.92d2d30c.chunk.css.map": "/APPTRIX/static/css/255.92d2d30c.chunk.css.map",
+    "255.b7ab7e5a.chunk.js.map": "/APPTRIX/static/js/255.b7ab7e5a.chunk.js.map",
+    "540.31d5ac5a.chunk.css.map": "/APPTRIX/static/css/540.31d5ac5a.chunk.css.map",
+    "540.bdbd2805.chunk.js.map": "/APPTRIX/static/js/540.bdbd2805.chunk.js.map",
+    "366.b96deebf.chunk.js.map": "/APPTRIX/static/js/366.b96deebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87dab29.css",
+    "static/js/main.6ae48cae.js"
+  ]
+}
