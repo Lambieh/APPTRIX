@@ -1,0 +1,32 @@
+.order_all {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 32px;
+  gap: 32px;
+}
+.address_order {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  gap: 10px;
+}
+
+.cart_order {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  width: 100%;
+}
+.one_dish_on_order {
+  min-width: 50%;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-shadow: 0px 1px 1px black;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+}

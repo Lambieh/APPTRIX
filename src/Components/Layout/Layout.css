@@ -1,0 +1,22 @@
+.navigation_menu_all {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: rgb(101, 101, 101);
+  height: 60px;
+  align-items: center;
+}
+.nav_menu_right {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.link_style_layout {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
+.outlet_style {
+  max-width: 1200px;
+  margin: 0 auto;
+}
